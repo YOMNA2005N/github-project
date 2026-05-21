@@ -202,3 +202,6 @@ section:hover{
   display: inline-block;
   margin: 10px;
 }
+footer{
+    border-top: 4px solid white;
+}
